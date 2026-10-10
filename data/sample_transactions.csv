@@ -1,0 +1,62 @@
+date,description,amount,category,transaction_type
+2026-01-01,Monthly salary,42000,Income,income
+2026-01-02,Apartment rent,12000,Housing,expense
+2026-01-04,Fresh grocery market,1850,Groceries,expense
+2026-01-06,Metro travel card,650,Transport,expense
+2026-01-08,Electricity bill,1250,Utilities,expense
+2026-01-10,Cafe coffee,280,Dining,expense
+2026-01-12,Pharmacy,450,Healthcare,expense
+2026-01-15,Online course,999,Education,expense
+2026-01-19,Clothing store,1700,Shopping,expense
+2026-01-25,Restaurant dinner,1100,Dining,expense
+2026-02-01,Monthly salary,42000,Income,income
+2026-02-02,Apartment rent,12000,Housing,expense
+2026-02-04,Fresh grocery market,2100,Groceries,expense
+2026-02-06,Metro travel card,720,Transport,expense
+2026-02-08,Electricity bill,1320,Utilities,expense
+2026-02-10,Cafe coffee,320,Dining,expense
+2026-02-12,Pharmacy,380,Healthcare,expense
+2026-02-15,Online course,999,Education,expense
+2026-02-19,Electronics store,2600,Shopping,expense
+2026-02-25,Restaurant dinner,1450,Dining,expense
+2026-03-01,Monthly salary,42000,Income,income
+2026-03-02,Apartment rent,12000,Housing,expense
+2026-03-04,Fresh grocery market,2250,Groceries,expense
+2026-03-06,Metro travel card,700,Transport,expense
+2026-03-08,Electricity bill,1280,Utilities,expense
+2026-03-10,Cafe coffee,350,Dining,expense
+2026-03-12,Pharmacy,520,Healthcare,expense
+2026-03-15,Online course,999,Education,expense
+2026-03-19,Clothing store,1900,Shopping,expense
+2026-03-25,Restaurant dinner,1300,Dining,expense
+2026-04-01,Monthly salary,42000,Income,income
+2026-04-02,Apartment rent,12000,Housing,expense
+2026-04-04,Fresh grocery market,2400,Groceries,expense
+2026-04-06,Metro travel card,760,Transport,expense
+2026-04-08,Electricity bill,1400,Utilities,expense
+2026-04-10,Cafe coffee,390,Dining,expense
+2026-04-12,Pharmacy,480,Healthcare,expense
+2026-04-15,Online course,999,Education,expense
+2026-04-19,Electronics store,2800,Shopping,expense
+2026-04-25,Restaurant dinner,1600,Dining,expense
+2026-05-01,Monthly salary,42000,Income,income
+2026-05-02,Apartment rent,12000,Housing,expense
+2026-05-04,Fresh grocery market,2500,Groceries,expense
+2026-05-06,Metro travel card,800,Transport,expense
+2026-05-08,Electricity bill,1380,Utilities,expense
+2026-05-10,Cafe coffee,420,Dining,expense
+2026-05-12,Pharmacy,510,Healthcare,expense
+2026-05-15,Online course,999,Education,expense
+2026-05-19,Clothing store,2100,Shopping,expense
+2026-05-25,Restaurant dinner,1750,Dining,expense
+2026-06-01,Monthly salary,42000,Income,income
+2026-06-02,Apartment rent,12000,Housing,expense
+2026-06-04,Fresh grocery market,2700,Groceries,expense
+2026-06-06,Metro travel card,850,Transport,expense
+2026-06-08,Electricity bill,1450,Utilities,expense
+2026-06-10,Cafe coffee,460,Dining,expense
+2026-06-12,Pharmacy,550,Healthcare,expense
+2026-06-15,Online course,999,Education,expense
+2026-06-19,Clothing store,2400,Shopping,expense
+2026-06-25,Restaurant dinner,1950,Dining,expense
+2026-06-26,Large one-time appliance purchase,18000,Shopping,expense
